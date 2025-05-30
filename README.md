@@ -1,2 +1,3 @@
-# mrreduce
-Macro-based Reducer Pattern in Rust
+# mrreducer
+
+**M**acro-based **R**ust **R**educer with powerful developer ergonomics
